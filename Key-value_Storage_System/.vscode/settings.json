@@ -1,0 +1,40 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System",
+            "binaryPath": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System/Application",
+            "binaryArgs": [
+                "testcases/create.conf"
+            ]
+        },
+        {
+            "cwd": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System",
+            "binaryPath": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System/Application",
+            "binaryArgs": [
+                "testcases/read.conf"
+            ]
+        },
+        {
+            "cwd": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System",
+            "binaryPath": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System/Application",
+            "binaryArgs": [
+                "testcases/update.conf"
+            ]
+        },
+        {
+            "cwd": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System",
+            "binaryPath": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System/Application",
+            "binaryArgs": [
+                "testcases/delete.conf"
+            ]
+        },
+        {
+            "cwd": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System",
+            "binaryPath": "/home/zli123/Distributed_NoSQL_Database/Key-value_Storage_System/Application",
+            "binaryArgs": []
+        }
+    ],
+    "makefile.configurations": [
+    
+    ]
+}
