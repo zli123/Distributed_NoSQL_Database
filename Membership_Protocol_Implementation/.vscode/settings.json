@@ -1,0 +1,38 @@
+{
+
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1",
+            "binaryPath": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1/Application",
+            "binaryArgs": [
+                "testcases/singlefailure.conf"
+            ]
+        },
+        {
+            "cwd": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1",
+            "binaryPath": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1/Application",
+            "binaryArgs": [
+                "testcases/multifailure.conf"
+            ]
+        },
+        {
+            "cwd": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1",
+            "binaryPath": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1/Application",
+            "binaryArgs": [
+                "testcases/msgdropsinglefailure.conf"
+            ]
+        },
+        {
+            "cwd": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1",
+            "binaryPath": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/CS-425-MP1/Application",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/MP1",
+            "binaryPath": "/mnt/c/Users/Zetian/Desktop/CS 425/MPs/MP1/Application",
+            "binaryArgs": []
+        }
+    ],
+    "workbench.colorTheme": "Solarized Dark",
+    "makefile.panel.visibility": null,
+}
